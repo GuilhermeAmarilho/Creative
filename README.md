@@ -14,6 +14,3 @@
 
 - Apresentação do projeto feito
 ![Projeto](apresentacao.png)
-
-- Layout para inspiração
-![layout](layout-creative.png)
